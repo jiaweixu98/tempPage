@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://jiaweixu98.github.io/tempPage//sitemap.xml
+Sitemap: https://jiaweixu98.github.io//tempPage//sitemap.xml
